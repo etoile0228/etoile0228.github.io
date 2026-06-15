@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>First on Etoile &#39;s Blog</title>
-    <link>http://localhost:1313/categories/first/</link>
+    <link>https://etoile0228.github.io/categories/first/</link>
     <description>Recent content in First on Etoile &#39;s Blog</description>
     <image>
       <title>Etoile &#39;s Blog</title>
-      <url>http://localhost:1313/images/avatar.jpg</url>
-      <link>http://localhost:1313/images/avatar.jpg</link>
+      <url>https://etoile0228.github.io/images/avatar.jpg</url>
+      <link>https://etoile0228.github.io/images/avatar.jpg</link>
     </image>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 15 Jun 2026 19:10:19 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/first/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://etoile0228.github.io/categories/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My 1st post</title>
-      <link>http://localhost:1313/posts/%E7%94%B5%E5%95%86-%E6%AF%8D%E5%A9%B4%E5%B8%82%E5%9C%BA%E6%B6%88%E8%B4%B9%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/</link>
+      <link>https://etoile0228.github.io/posts/%E7%94%B5%E5%95%86-%E6%AF%8D%E5%A9%B4%E5%B8%82%E5%9C%BA%E6%B6%88%E8%B4%B9%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/</link>
       <pubDate>Mon, 15 Jun 2026 19:10:19 +0800</pubDate>
-      <guid>http://localhost:1313/posts/%E7%94%B5%E5%95%86-%E6%AF%8D%E5%A9%B4%E5%B8%82%E5%9C%BA%E6%B6%88%E8%B4%B9%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/</guid>
+      <guid>https://etoile0228.github.io/posts/%E7%94%B5%E5%95%86-%E6%AF%8D%E5%A9%B4%E5%B8%82%E5%9C%BA%E6%B6%88%E8%B4%B9%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/</guid>
       <description>Desc Text.</description>
     </item>
   </channel>
