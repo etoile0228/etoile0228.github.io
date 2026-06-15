@@ -4,7 +4,7 @@ date: 2026-06-15T19:03:32+08:00
 # weight: 1
 # aliases: ["/first"]
 categories: ["电商"]
-tags: ["广告"]
+tags: ["广告投放"]
 author: "Etoile"
 # author: ["Me", "You"] # multiple authors
 showToc: true
