@@ -1,10 +1,10 @@
 ---
-title: "My 1st post"
+title: "小红书用户消费金额预测：用线性回归理解销售额驱动因素"
 date: 2026-06-17T22:44:05+08:00
 # weight: 1
 # aliases: ["/first"]
-categories: ["first"]
-tags: ["first"]
+categories: ["电商"]
+tags: ["线性回归", "statsmodels", "用户价值", "小红书"]
 author: "Etoile"
 # author: ["Me", "You"] # multiple authors
 showToc: true
